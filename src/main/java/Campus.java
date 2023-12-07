@@ -1,0 +1,1 @@
+enum Campus{KLE, KL}
